@@ -3,7 +3,7 @@
 emqx-plugin-template
 ====================
 
-[emqx/emqx-plugin-template at emqx-v4 (github.com)](https://github.com/emqx/emqx-plugin-template/tree/emqx-v4) This is a template plugin for the EMQ X broker. 
+[emqx/emqx-plugin-template at emqx-v4 (github.com)](https://dgithub.xyz/emqx/emqx-plugin-template/tree/emqx-v4) This is a template plugin for the EMQ X broker. 
 
 Plugin Config
 -------------
@@ -44,10 +44,10 @@ Build the EMQX broker
 
  官方源码仓库地址，执行此命令
 ```
-  git clone -b v4.3.12 https://github.com/emqx/emqx.git emqx-v4.3
+  git clone -b v4.3.12 https://dgithub.xyz/emqx/emqx.git emqx-v4.3
 ```
 
-##### 建议直接下载完整EMQX源码包（基于官方emqx v4.3开源源码+kafka插件），下载地址(https://github.com/jameycai/emqx/tree/main-v4.3) 。
+##### 建议直接下载完整EMQX源码包（基于官方emqx v4.3开源源码+kafka插件），下载地址(https://dgithub.xyz/jameycai/emqx/tree/main-v4.3) 。
 
 
 
@@ -60,7 +60,7 @@ Build the EMQX broker
 
  修改EMQX目录下lib-extra/plugins文件，在erlang_plugins中添加如下行打入emqx_plugin_kafka插件
 ```
-   , {emqx_plugin_kafka, {git, "https://github.com/jameycai/emqx_plugin_kafka.git", {branch, "main"}}}   #这里仓库为自己仓库地址 方便之后代码修改提交
+   , {emqx_plugin_kafka, {git, "https://dgithub.xyz/jameycai/emqx_plugin_kafka.git", {branch, "main"}}}   #这里仓库为自己仓库地址 方便之后代码修改提交
 ```
   
 
