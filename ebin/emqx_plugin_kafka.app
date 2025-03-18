@@ -10,4 +10,4 @@
               {licenses,["Apache-2.0"]},
               {maintainers,["lyg <3613840847@qq.com>"]},
               {links,[{"Github",
-                       "https://github.com/yzs/emqx-plugin-kafka"}]}]}.
+                       "https://dgithub.xyz/yzs/emqx-plugin-kafka"}]}]}.
